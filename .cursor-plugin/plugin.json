@@ -1,0 +1,22 @@
+{
+  "name": "superpowers",
+  "displayName": "Superpowers",
+  "description": "Custom skills, hooks, and agents for AI-assisted development workflows",
+  "version": "0.1.0",
+  "author": {
+    "name": "jscomet"
+  },
+  "homepage": "https://github.com/jscomet/superpowers",
+  "repository": "https://github.com/jscomet/superpowers",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "hooks",
+    "agents",
+    "workflows"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/",
+  "hooks": "./hooks/hooks-cursor.json"
+}

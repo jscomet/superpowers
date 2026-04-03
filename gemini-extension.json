@@ -1,0 +1,6 @@
+{
+  "name": "superpowers",
+  "description": "Custom skills, hooks, and agents for AI-assisted development workflows",
+  "version": "0.1.0",
+  "contextFileName": "GEMINI.md"
+}

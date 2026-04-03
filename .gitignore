@@ -1,0 +1,11 @@
+.idea/
+.claude/
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+.env.*
+node_modules/
+.worktrees/
+.private-journal/
